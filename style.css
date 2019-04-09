@@ -1,0 +1,45 @@
+body{
+	background: 
+		linear-gradient(to right, rgb(202, 114, 135) 20%, rgb(66, 95, 163) 90%),
+		url(https://newevolutiondesigns.com/images/freebies/summer-wallpaper-14.jpg);
+	background-blend-mode: overlay;
+	background-position: center 0%;
+	text-align: center;
+	font-family: 'Frank Ruhl Libre', serif;
+}
+
+.breadcrumb{
+	background-color: rgb(0, 0, 0, 0.5);
+	border-radius: 0px;
+}
+
+.breadcrumb a{
+	color: rgb(189, 189, 21);
+}
+
+.breadcrumb a:hover{
+	color: rgb(189, 116, 21);
+}
+
+#active{
+	color: rgb(244, 244, 244, 0.8);
+}
+
+h1{
+	margin-top: 6.5em;
+	font-size: 3em;
+	font-weight: 550;
+	color: rgb(21, 44, 85);
+}
+
+.btn{
+	margin-top: 4em;
+	border-radius: 100px;
+	background-color: rgb(1, 44, 52, 0.7);
+	border-color: rgb(78, 0, 18);
+}
+
+.btn:hover{
+	background-color: rgb(69, 117, 133, 0.7);
+	border-color: rgb(78, 0, 18);
+}
